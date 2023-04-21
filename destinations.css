@@ -1,0 +1,252 @@
+.glyph-6-icon1 {
+  position: absolute;
+  top: 0;
+  left: 887px;
+  width: 601.69px;
+  height: 377.58px;
+}
+.glyph-3-icon,
+.glyph1-icon {
+  position: absolute;
+  top: 209px;
+  left: 0;
+  width: 743.32px;
+  height: 1373.92px;
+}
+.glyph-3-icon {
+  top: 450px;
+  left: 535.39px;
+  width: 521.59px;
+  height: 521.59px;
+}
+.cenk2,
+.destinace2,
+.home2,
+.kontakt2,
+.work2grow4 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.work2grow4 {
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  text-align: left;
+  width: 888.12px;
+  height: 96.1px;
+}
+.cenk2,
+.destinace2,
+.home2,
+.kontakt2 {
+  font-weight: 500;
+  justify-content: center;
+  width: 164.88px;
+  height: 97.25px;
+}
+.cenk2,
+.home2,
+.kontakt2 {
+  width: 99.96px;
+}
+.home2,
+.kontakt2 {
+  height: 97px;
+}
+.kontakt2 {
+  width: 125px;
+  height: 98.13px;
+}
+.work2grow-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-36xl);
+}
+.navbar3,
+.navbar4 {
+  width: 1620.48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.navbar4 {
+  flex-shrink: 0;
+}
+.navbar3 {
+  position: absolute;
+  top: 0;
+  left: 2.17px;
+}
+.mainheader1,
+.objevte-destinace-pro {
+  position: absolute;
+  left: 0;
+  width: 920px;
+  height: 272px;
+}
+.objevte-destinace-pro {
+  top: 0;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.mainheader1 {
+  top: 279.05px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+}
+.first1,
+.glyph1-icon1 {
+  position: absolute;
+  top: 8.53px;
+  left: 162px;
+  width: 1622.66px;
+  height: 551.05px;
+}
+.glyph1-icon1 {
+  top: 0;
+  left: 1293px;
+  width: 1022.74px;
+  height: 924.77px;
+}
+.destinations-child {
+  position: relative;
+  border-radius: var(--br-3xs);
+  width: 399px;
+  height: 307px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.destinations1,
+.destinations2,
+.destinations3 {
+  position: absolute;
+  top: 1203px;
+  left: 162px;
+  border-radius: var(--br-5xs);
+  width: 1596px;
+  height: 361px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-1023xl) 0 var(--padding-703xl) var(--padding-3xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-184xl);
+}
+.destinations2,
+.destinations3 {
+  top: 1278px;
+  padding: var(--padding-1023xl) 0 0 var(--padding-3xs);
+}
+.destinations3 {
+  top: 2133px;
+  padding: var(--padding-1023xl) 0 var(--padding-703xl) var(--padding-3xs);
+}
+.footer-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 617px;
+}
+.work2grow-vechna-prva2 {
+  position: absolute;
+  top: 457px;
+  left: 566px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 788px;
+  height: 138px;
+}
+.sledujte-ns2,
+.work2grow5 {
+  position: absolute;
+  top: 107px;
+  left: 152px;
+}
+.sledujte-ns2 {
+  top: 115px;
+  left: 1518px;
+  text-align: center;
+}
+.managementwork2growcz2 {
+  position: absolute;
+  top: 167px;
+  left: 191px;
+  display: flex;
+  align-items: center;
+  width: 788px;
+}
+.footer-inner {
+  position: absolute;
+  top: 455px;
+  left: -2px;
+  border-top: 4px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1924px;
+  height: 4px;
+}
+.group-icon2,
+.icon-instagram2 {
+  position: absolute;
+  height: 7.29%;
+  width: 2.13%;
+  top: 28.04%;
+  right: 90.06%;
+  bottom: 64.67%;
+  left: 7.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-instagram2 {
+  height: 25.61%;
+  width: 2.19%;
+  top: 30.55%;
+  right: 19.04%;
+  bottom: 43.84%;
+  left: 78.78%;
+}
+.instagram6,
+.instagram7 {
+  position: absolute;
+  top: 183px;
+  left: 1581px;
+}
+.instagram7 {
+  top: 241px;
+  left: 1582px;
+}
+.footer2,
+.instagram8 {
+  position: absolute;
+  top: 299px;
+  left: 1581px;
+}
+.footer2 {
+  top: 3406px;
+  left: 0;
+  width: 1920px;
+  height: 617px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkslategray);
+}
+.destinations {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 4000px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray);
+  font-family: var(--font-poppins);
+}
