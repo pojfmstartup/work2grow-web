@@ -188,7 +188,7 @@
   left: 1581px;
 }
 .footer1 {
-  top: 4383px;
+  top: 6433px;
   left: 0;
   width: 1920px;
   height: 617px;
@@ -225,10 +225,15 @@
   position: relative;
   background-color: var(--color-aliceblue);
   width: 100%;
-  height: 5000px;
+  height: 7000px;
   overflow: hidden;
   text-align: center;
   font-size: var(--font-size-17xl);
   color: var(--color-gray);
   font-family: var(--font-poppins);
+}
+
+a {
+  text-decoration: none;
+  color:unset;
 }

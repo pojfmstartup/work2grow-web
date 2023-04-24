@@ -17,16 +17,16 @@ body {
   /* Colors */
   --color-aliceblue: #f1f5f9;
   --color-white: #fff;
-  --color-tomato-300: #f25a3f;
-  --color-tomato-400: #ea593f;
-  --color-tomato-500: #e7553b;
-  --color-tomato-100: #db5139;
-  --color-tomato-200: #d74f37;
+  --color-tomato-300: #1846bd;
+  --color-tomato-400: #1846bd;
+  --color-tomato-500: #1846bd;
+  --color-tomato-100: #1846bd;
+  --color-tomato-200: #1846bd;
   --color-darkslategray: #292d32;
   --color-silver: #b3bac3;
   --color-black: #000;
   --color-gray: #1e293b;
-  --color-firebrick: #c6432c;
+  --color-firebrick: #1846bd;
 
   /* Gaps */
   --gap-36xl: 55px;

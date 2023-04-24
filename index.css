@@ -1,7 +1,7 @@
 .glyphs-icon {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 0px;
+  left: -680px;
   width: 3295.51px;
   height: 5820.39px;
 }
@@ -511,6 +511,7 @@
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
+
 }
 .icon-instagram {
   height: 25.61%;
@@ -573,4 +574,8 @@
   font-size: var(--font-size-17xl);
   color: var(--color-white);
   font-family: var(--font-poppins);
+}
+a {
+  text-decoration: none;
+  color:unset;
 }
